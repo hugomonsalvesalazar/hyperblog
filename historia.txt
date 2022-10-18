@@ -1,6 +1,7 @@
+Esta es la historia de Freddy Vega
 
-Hola mi nombre es Hugo Monsalve Salazar
+Freddy Vega tiene 32 años y nació en Colombia
 
-y hoy estoy aprendiendo Git and Github con el curso de platzi
+Anita Platzi tiene 41 años y nació en Internet
 
-
+Mañana nos enfocaremos en su vida laboral
